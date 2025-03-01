@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @eugeneyap03
+- 👋 Hi, I’m Eugene Yap
 - 🎓 Bachelor of Science (Computing and Software Systems) student at the University of Melbourne 
 - 👀 I'm deeply passionate about specialising in the dynamic field of data and technology, driven by my fascination with leveraging data-driven solutions to tackle complex problems.
 - 🌱 I’m currently working on a betting tracker software to combat gambling addiction
