@@ -1,10 +1,10 @@
 # 💫 About Me:
 - 👋 Hi, I’m Eugene Yap
-- 🎓 Bachelor of Science (Computing and Software Systems) student at the University of Melbourne 
+- 🎓 Bachelor of Science (Computing and Software Systems) graduate from the University of Melbourne 
 - 👀 I'm deeply passionate about specialising in the dynamic field of data and technology, driven by my fascination with leveraging data-driven solutions to tackle complex problems.
-- 🌱 I’m currently working on a betting tracker software to combat gambling addiction
+- 🌱 I’m currently working on an AIRBNB price optimisation tool
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-yap03/) 
-- ⚡ Fun fact: I am an Events and Industry Officer at the Computing and Information Systems Students Association (the largest student-led tech club at the University of Melbourne)
+- ⚡ Fun fact: I was an Events and Industry Officer at the Computing and Information Systems Students Association (the largest student-led tech club at the University of Melbourne)
 
 
 
